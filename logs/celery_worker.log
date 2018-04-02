@@ -1,0 +1,150 @@
+ 
+ -------------- celery@instance-1 v3.1.23 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-4.4.0-53-generic-x86_64-with-Ubuntu-16.04-xenial
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         blast:0x7f577064d128
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     redis://localhost:6379/1
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . imagekit.cachefiles.backends._generate_file
+  . notifications.tasks.send_push_notification
+  . notifications.tasks.send_push_notification_to_device
+  . notifications.tasks.send_share_notifications
+  . posts.tasks.clear_expired_posts
+  . posts.tasks.send_expire_notifications
+  . smsconfirmation.tasks.send_code_confirmation_request_async
+  . smsconfirmation.tasks.send_verification_request
+
+ 
+ -------------- celery@instance-1 v3.1.23 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-4.4.0-53-generic-x86_64-with-Ubuntu-16.04-xenial
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         blast:0x7f6ec81740f0
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     redis://localhost:6379/1
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . imagekit.cachefiles.backends._generate_file
+  . notifications.tasks.send_push_notification
+  . notifications.tasks.send_push_notification_to_device
+  . notifications.tasks.send_share_notifications
+  . posts.tasks.clear_expired_posts
+  . posts.tasks.send_expire_notifications
+  . smsconfirmation.tasks.send_code_confirmation_request_async
+  . smsconfirmation.tasks.send_verification_request
+
+ 
+ -------------- celery@instance-1 v3.1.23 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-4.4.0-53-generic-x86_64-with-Ubuntu-16.04-xenial
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         blast:0x7fccee0530f0
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     redis://localhost:6379/1
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . imagekit.cachefiles.backends._generate_file
+  . notifications.tasks.send_push_notification
+  . notifications.tasks.send_push_notification_to_device
+  . notifications.tasks.send_share_notifications
+  . posts.tasks.clear_expired_posts
+  . posts.tasks.send_expire_notifications
+  . smsconfirmation.tasks.send_code_confirmation_request_async
+  . smsconfirmation.tasks.send_verification_request
+
+ 
+ -------------- celery@instance-1 v3.1.23 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-4.4.0-53-generic-x86_64-with-Ubuntu-16.04-xenial
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         blast:0x7f139d3db0b8
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     redis://localhost:6379/1
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . imagekit.cachefiles.backends._generate_file
+  . notifications.tasks.send_push_notification
+  . notifications.tasks.send_push_notification_to_device
+  . notifications.tasks.send_share_notifications
+  . posts.tasks.clear_expired_posts
+  . posts.tasks.send_expire_notifications
+  . smsconfirmation.tasks.send_code_confirmation_request_async
+  . smsconfirmation.tasks.send_verification_request
+
+ 
+ -------------- celery@instance-1 v3.1.23 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-4.4.0-53-generic-x86_64-with-Ubuntu-16.04-xenial
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         blast:0x7f42355b1048
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     redis://localhost:6379/1
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . imagekit.cachefiles.backends._generate_file
+  . notifications.tasks.send_push_notification
+  . notifications.tasks.send_push_notification_to_device
+  . notifications.tasks.send_share_notifications
+  . posts.tasks.clear_expired_posts
+  . posts.tasks.send_expire_notifications
+  . smsconfirmation.tasks.send_code_confirmation_request_async
+  . smsconfirmation.tasks.send_verification_request
+
+ 
+ -------------- celery@instance-1 v3.1.23 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-4.4.0-53-generic-x86_64-with-Ubuntu-16.04-xenial
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         blast:0x7f93612b6048
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     redis://localhost:6379/1
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . imagekit.cachefiles.backends._generate_file
+  . notifications.tasks.send_push_notification
+  . notifications.tasks.send_push_notification_to_device
+  . notifications.tasks.send_share_notifications
+  . posts.tasks.clear_expired_posts
+  . posts.tasks.send_expire_notifications
+  . smsconfirmation.tasks.send_code_confirmation_request_async
+  . smsconfirmation.tasks.send_verification_request
+
