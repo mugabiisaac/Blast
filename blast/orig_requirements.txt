@@ -26,7 +26,7 @@ django-pure-pagination==0.3.0
 django-push-notifications==1.4.1
 django-rest-auth==0.9.3
 django-rest-swagger==0.3.8
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 djangorestframework-filters==0.10.2
 djangorestframework-jwt==1.8.0
 djangorestframework-oauth==1.1.0
